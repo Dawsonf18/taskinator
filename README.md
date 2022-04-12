@@ -13,3 +13,4 @@ A simple app to keep track of your to-do list.
 
 
 ## LINK TO DEPLOYED SITE:
+https://dawsonf18.github.io/taskinator/
